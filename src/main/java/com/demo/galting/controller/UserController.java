@@ -21,8 +21,8 @@ public class UserController {
     @GetMapping
     public List<User> getUsers() {
         User user = User.builder()
-                .firstName("vishal")
-                .lastName("nigam")
+                .fName("vishal")
+                .lName("nigam")
                 .country("INDIA")
                 .build();
         return Arrays.asList(user);
