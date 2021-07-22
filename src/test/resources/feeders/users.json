@@ -1,0 +1,12 @@
+[
+  {
+    "fname": "John",
+    "lname": "Doe",
+    "country": "Austria"
+  },
+  {
+    "fname": "Jane",
+    "lname": "Doe",
+    "country": "India"
+  }
+]

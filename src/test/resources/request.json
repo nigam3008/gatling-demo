@@ -1,0 +1,5 @@
+{
+  "fName": "${fname}",
+  "lName": "${lname}",
+  "country": "${country}"
+}
